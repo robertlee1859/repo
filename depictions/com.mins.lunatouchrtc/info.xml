@@ -1,0 +1,20 @@
+<package>
+	<id>com.mins.lunatouch</id>
+	<name>Luna Touch RTC</name>
+	<version>1.7.0</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>13.6.1</maxiOS>
+			<otherVersions>12</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>No</dependencies>
+	<descriptionlist>
+		<description>Luna touch RTC for iOS 13 - Experimental Version</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>OPEN WEBRTC</change>
+	</changelog>
+	<links></links>
+</package>
